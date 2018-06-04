@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+environment/project/0.1309317768/BATCH_BUILD/delimiter=;
+environment/project/0.1309317768/BATCH_BUILD/operation=append
+environment/project/0.1309317768/BATCH_BUILD/value=1
+environment/project/0.1309317768/IDF_PATH/delimiter=;
+environment/project/0.1309317768/IDF_PATH/operation=replace
+environment/project/0.1309317768/IDF_PATH/value=c\:/msys32/home/KING/esp/esp-idf
+environment/project/0.1309317768/PATH/delimiter=;
+environment/project/0.1309317768/PATH/operation=replace
+environment/project/0.1309317768/PATH/value=C\:\\msys32\\usr\\bin;C\:\\msys32\\mingw32\\bin;C\:\\msys32\\opt\\xtensa-esp32-elf\\bin
+environment/project/0.1309317768/append=true
+environment/project/0.1309317768/appendContributed=true
